@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning PySide6/Qt6 and MD (with Zettlr)
 - 💞️ I’m looking to collaborate on CAPL and Python
 - 📫 How to reach me:
-  + PM me here   
+  + PM me here
+  + On XING
+  + On LinkedIn
 
 <!---
 mikesmitti/mikesmitti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
