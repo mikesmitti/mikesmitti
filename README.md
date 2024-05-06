@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikesmitti
 - 👀 I’m interested in Python, PySide6, Qt6, Eclipse and corresponding topics
 - 🌱 I’m currently learning PySide6/Qt6-GUIs and MD (with Zettlr)
-- 💞️ I’m looking to collaborate on CAPL and Python
+- 💞️ I’m looking to collaborate on C/C++ and Python
 - 📫 How to reach me:
   + PM me here
   + On XING
