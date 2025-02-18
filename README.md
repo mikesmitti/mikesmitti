@@ -9,6 +9,7 @@
 - I do or did projects in
   + C/C++
   + Python
+  + TypeScript/AWS CDK/Angular
   + LabView/Teststand
   + CAPL
   + Objective C 2.0
