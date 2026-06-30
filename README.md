@@ -12,8 +12,7 @@
   + TypeScript/AWS CDK/Angular
   + LabView/Teststand
   + CAPL
-  + Objective C 2.0
-  + VBA
+
 
 <!---
 mikesmitti/mikesmitti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
