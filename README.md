@@ -10,7 +10,6 @@
   + C/C++
   + Python
   + TypeScript/AWS CDK/Angular
-  + LabView/Teststand
   + CAPL
 
 
